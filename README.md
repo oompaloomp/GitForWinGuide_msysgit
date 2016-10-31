@@ -1,1 +1,1 @@
-# GitForWinGuide_msysgit
+# Иллюстрированное руководство по Git на Windows
